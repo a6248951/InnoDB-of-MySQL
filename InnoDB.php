@@ -1,6 +1,6 @@
-<?php
+﻿<?php
 
-		//MySQL事务的使用
+	//MySQL事务的使用
         $title = $post['title'];
         $username =$post['username'];
         $mobile = $post['mobile'];
